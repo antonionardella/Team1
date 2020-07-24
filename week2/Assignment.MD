@@ -150,7 +150,8 @@ Based on the e-mail addresses of team members, most people seem to individuals w
 
 ### Mission
 
-PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
+PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. Along with MySQL, it has generally been considered as a reliable and scalable enterprise ready alternative to Oracle (although with the purchase of MySQL by Oracle, PostGreSQL is often preferred). 
+Interestingly the license is its own (generally frowned upon in the open source world in order to avoid license proliferation), which is compatible with both OSI and FSF definitions.
 
 ### Governance
 
@@ -177,6 +178,11 @@ Mainly 3 companies seem to work on PostgreSQL:
 1. EnterpriseDB
 2. 2ndQuadrant
 3. CrunchyData
+
+### other
+
+A healthy communinty of local open source associations and clubs has sprung up around PostGreSQL. For example in France you can find "PostgreSQL FR" amongst others. Its community dynamic is very
+It's nice to see that they publish a roadmap and really good devloper guidelines (https://wiki.postgresql.org/wiki/Submitting_a_Patch and https://wiki.postgresql.org/wiki/Developer_FAQ). You can't argue with their policy on this "PostgreSQL is a noncommercial, all volunteer, free software project, and as such there is no formal list of feature requirements required for development."
 
 ## Express.js
 
