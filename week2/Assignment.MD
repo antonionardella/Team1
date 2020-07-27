@@ -104,11 +104,20 @@ Face-to-Face Opportunities: Facilitating collaboration among members of the comm
 [FreeBSD Staff](https://www.freebsdfoundation.org/about/staff/)  
 [FreeBSD Foundation BoD](https://www.freebsdfoundation.org/about/board-of-directors/)
 [FreeBSD Project Teams](https://www.freebsd.org/administration.html#t-core)
+[FreeBSD source code on Subversion:](https://svnweb.freebsd.org/)
+[FreeBSD website:](https://www.freebsd.org/)
+[FreeBSD Journal:](https://www.freebsdfoundation.org/journal/)
+[FreeBSD Handbook:](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/index.html)
+[Contributing to FreeBSD:](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/contributing/index.html)
 
 ### Artifacts
 ---
 
 ### Noteworthy characteristics
+
+A FreeBSD Project Member is an individual who has made a notable contribution to the FreeBSD Project, and who is continuing to contribute to the Project. That may be in the form of new code, documentation, or patches to existing code and documentation, or in other ways that the Core Team designates, including community management and advocacy.
+In other words people that build the brand and contribute are selected to be more visible positions.
+
 ---
 
 
@@ -136,6 +145,13 @@ https://github.com/nodejs/node/blob/master/README.md#current-project-team-member
 ### Artifacts
 
 Runtime to execute JavaScript source code locally: https://nodejs.org/en/download/
+Node.js has a committee dedicated towards the community: https://github.com/nodejs/community-committee
+Node.js website: https://nodejs.org/
+GitHub repositories for code, help, and website: https://github.com/nodejs
+Documentation: https://nodejs.org/en/docs/
+Node.js Foundation calendar: https://nodejs.org/calendar
+A guide for Collaborators: https://github.com/nodejs/node/blob/master/doc/guides/collaborator-guide.md
+
 
 ### Noteworthy characteristics
 
@@ -145,6 +161,8 @@ Based on the e-mail addresses of team members, most people seem to individuals w
  - Google: 6 contributors
  - Microsoft: 3 Contributors
  - Intel: 2 contributors
+
+Collaborators The nodejs/node core GitHub repository is maintained by the Collaborators who are added by the Technical Steering Committee (TSC) on an ongoing basis. Individuals making significant and valuable contributions are made Collaborators and given commit-access to the project. These individuals are identified by the TSC and their nomination is discussed with the existing Collaborators.
 
 ## PostgreSQL
 
@@ -202,4 +220,5 @@ The Express technical committee meets online every two weeks (as needed) to disc
 JavaScript package: https://www.npmjs.com/package/express
 
 ### Noteworthy characteristics
+
 ---
